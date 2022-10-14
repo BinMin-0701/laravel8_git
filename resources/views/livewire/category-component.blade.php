@@ -1,3 +1,3 @@
 <div>
-    {{-- The Master doesn't talk, he acts. --}}
+    {{-- Stop trying to control. --}}
 </div>
